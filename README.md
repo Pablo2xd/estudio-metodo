@@ -1,0 +1,2 @@
+# estudio-metodo
+practica CB
